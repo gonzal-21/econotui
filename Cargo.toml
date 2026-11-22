@@ -1,0 +1,10 @@
+[package]
+name = "econotui"
+version = "0.1.0"
+edition = "2021"
+description = "A terminal user interface for tracking prices"
+license = "MIT"
+
+[dependencies]
+crossterm = "0.28.1"
+ratatui = "0.29.0"

@@ -1,0 +1,2 @@
+# econotui
+rust app (demo)
